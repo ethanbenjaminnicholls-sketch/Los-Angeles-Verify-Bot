@@ -3,7 +3,7 @@ from discord.ext import commands
 import os
 
 # ─── CONFIG ───────────────────────────────────────────────
-DISCORD_TOKEN     = os.environ["DISCORD_TOKEN"]   # Set this in Railway Variables
+DISCORD_TOKEN     = os.environ["MTUyOTgxMDgxMzEyMzAzOTM0Mw.GA3rdd.OwzzESGkfgbC_uExdHjKvc1mAiWFCjKPs6VSBs"]   # Set this in Railway Variables
 VERIFY_CHANNEL_ID = 1527458422138736660
 VERIFIED_ROLE_ID  = 1484208135299272828
 # ──────────────────────────────────────────────────────────
